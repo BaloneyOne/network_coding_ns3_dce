@@ -1,11 +1,12 @@
 # network_coding_ns3_dce
 # Project carried out by Mr. Nicholson Eugene for the purpose of research only.
-# Università degli studi di siena, Italia.
+# Università degli studi di Siena, Italia.
+
 
 mptcp simulation using ns-3 dce
 
-Direct Code Execution [![Build Status](https://travis-ci.org/direct-code-execution/net-next-sim.png)](https://travis-ci.org/direct-code-execution/net-next-sim)
-===============================
+
+======================================================================
 
 
 http://www.nsnam.org/overview/projects/direct-code-execution/
