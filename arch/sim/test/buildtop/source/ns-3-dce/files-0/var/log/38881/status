@@ -1,0 +1,3 @@
+Start Time: NS3 Time:          4s (          +4000000000.0ns) , REAL Time: 1470172736
+      Time: NS3 Time:          4s (          +4000000000.0ns) , REAL Time: 1470172737 --> Starting: /home/nick/network-sim/mptcp/arch/sim/test/buildtop/source/ns-3-dce/build/bin_dce/udp-server
+      Time: NS3 Time:       1015s (       +1015500000000.0ns) , REAL Time: 1470172737 --> Exit (0)

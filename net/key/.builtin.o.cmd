@@ -1,0 +1,1 @@
+cmd_/home/nick/network-sim/mptcp/net/key/builtin.o := mkdir -p /home/nick/network-sim/mptcp/net/key/; if test -n "/home/nick/network-sim/mptcp/net/key/af_key.o"; then for f in /home/nick/network-sim/mptcp/net/key/af_key.o; do ar Tcru /home/nick/network-sim/mptcp/net/key/builtin.o $$f; done; else ar Tcru /home/nick/network-sim/mptcp/net/key/builtin.o; fi

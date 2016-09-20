@@ -1,0 +1,3 @@
+Start Time: NS3 Time:          4s (          +4000000000.0ns) , REAL Time: 1458229552
+      Time: NS3 Time:          4s (          +4000000000.0ns) , REAL Time: 1458229553 --> Starting: /home/nick/network-sim/mptcp/arch/sim/test/buildtop/build/bin/iperf
+      Time: NS3 Time:        107s (        +107050656482.0ns) , REAL Time: 1458229593 --> Exit (0)

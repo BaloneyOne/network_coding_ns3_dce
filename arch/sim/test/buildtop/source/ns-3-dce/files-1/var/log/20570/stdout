@@ -1,0 +1,12 @@
+received=1500 bytes, 1 reads (@1500 bytes) 1500
+received=589500 bytes, 393 reads (@1500 bytes) 591000
+received=589500 bytes, 393 reads (@1500 bytes) 1180500
+received=589500 bytes, 393 reads (@1500 bytes) 1770000
+received=591000 bytes, 394 reads (@1500 bytes) 2361000
+received=589500 bytes, 393 reads (@1500 bytes) 2950500
+received=589500 bytes, 393 reads (@1500 bytes) 3540000
+received=589500 bytes, 393 reads (@1500 bytes) 4129500
+received=589500 bytes, 393 reads (@1500 bytes) 4719000
+received=589500 bytes, 393 reads (@1500 bytes) 5308500
+received=589500 bytes, 393 reads (@1500 bytes) 5898000
+duration 10, total read 5898000 total packet 3932

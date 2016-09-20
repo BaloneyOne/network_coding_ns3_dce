@@ -1,0 +1,1 @@
+cmd_/home/nick/network-sim/mptcp/net/8021q/builtin.o := mkdir -p /home/nick/network-sim/mptcp/net/8021q/; if test -n "/home/nick/network-sim/mptcp/net/8021q/vlan_core.o"; then for f in /home/nick/network-sim/mptcp/net/8021q/vlan_core.o; do ar Tcru /home/nick/network-sim/mptcp/net/8021q/builtin.o $$f; done; else ar Tcru /home/nick/network-sim/mptcp/net/8021q/builtin.o; fi

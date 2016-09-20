@@ -3,7 +3,9 @@
 # Università degli studi di Siena, Italia.
 
 
-mptcp simulation using ns-3 dce
+	" MPTCP SIMULATION USING NS-3 DCE "
+
+# using a copy of Linux kernel as the network stack.
 
 
 ======================================================================

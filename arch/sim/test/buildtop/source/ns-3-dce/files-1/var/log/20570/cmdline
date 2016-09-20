@@ -1,0 +1,1 @@
+udp-perf --duration=10 --nodes=2 

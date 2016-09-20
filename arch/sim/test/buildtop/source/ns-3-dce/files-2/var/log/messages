@@ -1,0 +1,27 @@
+6NET: Registered protocol family 16
+6NET: Registered protocol family 2
+6default registered
+6default registered
+6MPTCP: Stable release v0.89.56TCP established hash table entries: 512 (order: 0, 4096 bytes)
+6TCP bind hash table entries: 512 (order: 0, 4096 bytes)
+6TCP: Hash tables configured (established 512 bind 512)
+6TCP: reno registered
+6UDP hash table entries: 128 (order: 0, 4096 bytes)
+6UDP-Lite hash table entries: 128 (order: 0, 4096 bytes)
+6NET: Registered protocol family 1
+6Initializing XFRM netlink socket
+6NET: Registered protocol family 10
+6nsc: Mobile IPv6
+6nsc: IPv6 over IPv4 tunneling driver
+6TCP: olia registered
+6fullmesh registered
+6ndiffports registered
+6NET: Registered protocol family 17
+6NET: Registered protocol family 15
+6DCCP: Activated CCID 2 (TCP-like)
+6DCCP: Activated CCID 3 (TCP-Friendly Rate Control)
+6nsc: Hash tables configured (established 512 bind 512)
+5IPv6: delayed DAD work was pending while freeing ifa=00007f99132a7dd0
+4IPv6: Freeing alive inet6 address 00007f99132a7dd0
+5IPv6: delayed DAD work was pending while freeing ifa=00007f9913283750
+4IPv6: Freeing alive inet6 address 00007f9913283750

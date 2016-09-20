@@ -1,0 +1,1 @@
+ip route add 10.1.0.0/24 via 10.1.0.2 dev sim0 

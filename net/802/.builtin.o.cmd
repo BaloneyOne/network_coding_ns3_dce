@@ -1,0 +1,1 @@
+cmd_/home/nick/network-sim/mptcp/net/802/builtin.o := mkdir -p /home/nick/network-sim/mptcp/net/802/; if test -n ""; then for f in ; do ar Tcru /home/nick/network-sim/mptcp/net/802/builtin.o $$f; done; else ar Tcru /home/nick/network-sim/mptcp/net/802/builtin.o; fi
